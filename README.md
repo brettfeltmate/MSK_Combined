@@ -1,5 +1,4 @@
 #MSK_Combined
-
 An attentional blink paradigm which 'combines' McLaughlin, Shore, & Klein (2001; T1 difficulty mixed within trials) and Shore, McLaughlin, & Klein (2001; T1 difficulty is blocked across trials). 
 
 In the present case, T1 difficulty is blocked for 3 blocks, and mixed for the remaining three blocks. Which is experienced first (blocked or mixed) is randomized across participants.
